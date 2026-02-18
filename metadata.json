@@ -1,0 +1,5 @@
+{
+  "name": "CaterTM",
+  "description": "A secure, multi-step document upload interface for Aadhaar, Voter ID, and skill certificates with validation and progress tracking.",
+  "requestFramePermissions": []
+}
