@@ -1,4 +1,5 @@
 node_modules/
+Doc_Validator/tessdata_cache/
 build/
 dist/
 coverage/
