@@ -16,6 +16,11 @@ CaterTM's Trust & Verification Engine automates worker onboarding through:
 - **Privacy-First Design:** DPDP Act 2023 + GDPR compliant with end-to-end encryption, minimal data retention, and comprehensive audit trails
 
 ---
+# Techstack
+-Tessaract.js
+-Pyrhon
+-Open cv 2
+
 
 ## ✨ Key Features
 
