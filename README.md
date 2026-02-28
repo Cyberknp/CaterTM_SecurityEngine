@@ -314,18 +314,9 @@ To extend this module:
 3. Improve validation logic in `validate_required_fields.py`
 4. Add unit tests for new features
 
-## 📄 License
 
-*(Add your license information here)*
 
-## 👥 Authors
+## 👥 K Nagendra Pai
 
-*(Add author/contributor information here)*
 
-## 📞 Support
-
-*(Add contact information or issue tracker links here)*
-
----
-
-**Note**: This module is designed for Indian government identity documents. Results may vary based on document quality, format variations, and OCR accuracy.
+*github.com/Cyberknp*
