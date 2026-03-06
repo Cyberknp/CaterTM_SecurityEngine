@@ -1,0 +1,13 @@
+# =============================================================================
+# Doc_Validator — Python Dependencies
+# =============================================================================
+# Install:  pip install -r requirements.txt
+#
+# Note: This module also requires Node.js (>= 18) and the npm package
+#       `tesseract.js` installed in the parent project. Run `npm install`
+#       from the CaterTM_SecurityEngine root to set that up.
+# =============================================================================
+
+# ── Image Preprocessing ──────────────────────────────────────────────────────
+opencv-python==4.13.0.92        # Image read, greyscale, resize, denoise, binarise
+numpy>=2.0                      # Array operations (opencv-python dependency)
